@@ -12,7 +12,6 @@ function Signin() {
         margin: '0 auto',
         backgroundSize: 'cover',
         backgroundPositionX: 'center',
-        backgroundImage: 'url("/logo.png")',
         zIndex: 1,
         minHeight: '25rem',
         width: '100%',
